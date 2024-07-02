@@ -14,9 +14,9 @@ This desktop application is developed using Python and Qt to provide a multi-por
 - When linked, both graphs display the same time frames, signal speed, and viewport (zoom and pan).
 - If unlinked, each graph can run signals independently.
 
-### Cine Mode
+### Sine Mode
 
-- Signals open in cine mode, displaying the signals as they change over time, similar to ICU monitors.
+- Signals open in Sine mode, displaying the signals as they change over time, similar to ICU monitors.
 - Users can rewind signals, stop them, or start them again from the beginning.
 
 ### Signal Manipulation
